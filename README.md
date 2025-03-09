@@ -2,12 +2,12 @@
 
 ## 🎓 TH Köln
 
-- [B.Sc. Computer Science & Engineering](https://www.th-koeln.de/en/academics/computer-science--engineering-bachelors-program_106741.php) (2018-2022)
 - [M.Sc. Computer Science & Engineering](https://www.th-koeln.de/en/academics/computer-science--engineering-masters-program_106742.php) (2022-2025)
+- [B.Sc. Computer Science & Engineering](https://www.th-koeln.de/en/academics/computer-science--engineering-bachelors-program_106741.php) (2018-2022)
 
 ## 🌍 Université Gustave Eiffel ([Double Degree](https://www.th-koeln.de/en/international_office/double-degree-computer-science-and-engineering-master_112507.php))
 
-- [M.Sc. Intelligent Systems & Applications](https://formations.univ-gustave-eiffel.fr/en/our-studies/detail?tx_formations_formationslistenplugin%5Baction%5D=showEN&tx_formations_formationslistenplugin%5Bcontroller%5D=Formations&tx_formations_formationslistenplugin%5BparcoursId%5D=348&cHash=725dd68f91fcd0e768a0777f60d29e1f) (one semester [Erasmus+](https://www.th-koeln.de/en/international_office/erasmus--studying-in-europe_88135.php) exchange)
+- [M.Sc. Intelligent Systems & Applications](https://formations.univ-gustave-eiffel.fr/en/our-studies/detail?tx_formations_formationslistenplugin%5Baction%5D=showEN&tx_formations_formationslistenplugin%5Bcontroller%5D=Formations&tx_formations_formationslistenplugin%5BparcoursId%5D=348&cHash=725dd68f91fcd0e768a0777f60d29e1f) (2024-2025, [Erasmus+](https://www.th-koeln.de/en/international_office/erasmus--studying-in-europe_88135.php) exchange)
 
 ## 🤖 Projects
 
