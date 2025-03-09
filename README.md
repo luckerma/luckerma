@@ -14,7 +14,7 @@
 - [Analyzing and Visualizing Ridership Patterns in Île-de-France Rail Network](https://luckerma.shinyapps.io/DSViz_Project/)
 - [Simulation for Shared Micromobility](https://luckerma.github.io/mas_project/)
 
-## 📚 Papers
+## 📚 Reports
 
 - [Multi-Target Multi-Camera Tracking (MTMCT) and Re-Identification (re-ID) from Detection to Tracking in Real-Time Scenarios](https://luckerma.github.io/research_project/master.pdf)
 - [Plant Seedlings Classification](https://luckerma.github.io/dl_project/)
