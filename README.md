@@ -13,8 +13,13 @@
 
 ## 💼 Work Experience
 
+### 👨🏻‍🔬 Current Roles
+
 - [Research Associate](https://th-koeln.de/personen/luca.uckermann/) (04/2025&thinsp;&ndash;&thinsp;present)
 - [Lecturer](https://th-koeln.de/weiterbildung/ki-im-unternehmen_130040.php/) (03/2026&thinsp;&ndash;&thinsp;present)
+
+### 👨🏻‍💻 Previous Roles
+
 - [Research Assistant](https://th-koeln.de/personen/luca.uckermann/) (02/2025&thinsp;&ndash;&thinsp;04/2025)
 - [Junior Software Developer](https://beebucket.ai/) (10/2021&thinsp;&ndash;&thinsp;01/2025)
 
@@ -71,4 +76,4 @@ Deep learning-based computer vision models in the following domains:
 
 ## 📈 GitHub Stats
 
-<p><img align="center" src="https://komarev.com/ghpvc/?username=luckerma&color=blueviolet&style=plastic&abbreviated=true" alt="luckerma profile views"/></p>
+![luckerma profile views](https://komarev.com/ghpvc/?username=luckerma&color=blueviolet&style=plastic&abbreviated=true)
